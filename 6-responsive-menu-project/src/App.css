@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.menu{
+  width: 80%;
+  position: fixed;
+  height: 100vh;
+  background-color: aqua;
+  text-align: left;
+  top: 0;
+  left: -100%;
+  transition: 0.8s;
+}
+
+.activeMenu{
+  left: 0%;
+}
+
+.menu ul li{
+  list-style: none;
+  padding: 10px 0px;
+  border-bottom: 1px solid #8080802e;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.mIcon{
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
