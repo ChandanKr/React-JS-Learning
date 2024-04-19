@@ -1,0 +1,27 @@
+.error{
+    background-color: red;
+    color: white;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.danger{
+    background-color: orange;
+    color: black;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.success{
+    background-color: rgb(10, 199, 10);
+    color: whitesmoke;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
