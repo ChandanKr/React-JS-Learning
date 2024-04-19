@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.para {
+  background-color: aqua;
+  padding: 10px;
+  text-align: left;
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
