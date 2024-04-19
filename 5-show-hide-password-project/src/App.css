@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.inputBox {
+  padding: 10px 50px 10px 10px;
+  font-size: 1rem;
+  width: 500px;
+}
+
+.eye-logo {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 20px;
+  right: 50px;
+}
